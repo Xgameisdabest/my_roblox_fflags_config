@@ -11,7 +11,7 @@
 - Sets fps cap to 63 ~> 64 to display smoothly on standard 60hz monitors.
 > [!NOTE]
 > __TIP: ALWAYS SET THE FPS CAP HIGHER THAN YOUR MONITOR REFRESH RATE. Ex: IF YOUR MONITOR REFRESH RATE IS 75hz, SET THE FPS CAP TO 77 FPS SO YOU CAN GET THE SMOOTHEST EXPERIENCE__
-  - `"DFIntTaskSchedulerTargetFps": "63",`
+    - `"DFIntTaskSchedulerTargetFps": "63",`
 
 - Displays your fps (cool feature)
   - `"FFlagDebugDisplayFPS": true,`
